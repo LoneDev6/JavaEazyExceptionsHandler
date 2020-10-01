@@ -12,7 +12,9 @@ public final class Main extends JavaPlugin implements EazyExceptionsListener
         test();
     }
 
-    @ExceptionGoesBrr(exception = ArrayIndexOutOfBoundsException.class, message = "Very cool, ur a skid and I smell an exception", printStackTrace = false)
+    @ExceptionGoesBrr(exception = ArrayIndexOutOfBoundsException.class, 
+                      message = "Very cool, ur a skid and I smell an exception", 
+                      printStackTrace = false)
     private void test()
     {
         int[] test = new int[0];
