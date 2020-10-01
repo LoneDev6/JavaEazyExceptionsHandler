@@ -1,0 +1,4 @@
+name: EazyExceptionsHandler
+version: ${project.version}
+main: dev.lone.EazyExceptionsHandler.Main
+api-version: 1.13
