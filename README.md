@@ -22,3 +22,5 @@ public final class Main extends JavaPlugin implements EazyExceptionsListener
     }
 }
 ```
+
+![](https://i.imgur.com/X8YWuIQ.png)
